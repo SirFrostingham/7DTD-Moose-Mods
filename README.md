@@ -1,4 +1,4 @@
-A collection of mods run by 7DTD Moosemilker.com server
+A collection of all mods run by 7DTD Moosemilker.com server
 =====
 
 
@@ -6,7 +6,7 @@ Introduction
 ---
 7 Days to Die mods run on Moosemilker.com
 
-Installing
+Optional: Installing - It is not required to download any mod to join the server. All mods are server side.
 ---
 1. Download all files
 2. Browse to your 7DTD client folder
@@ -15,9 +15,6 @@ Installing
 5. Run game
 6. Connect to Moosemilker.com server
 
-Installing
----
-Other mods we run: https://github.com/dmustanger/7dtd-ServerTools/releases
 
 Support the developer
 ---

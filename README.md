@@ -1,4 +1,4 @@
-A3XAI - Adapted files for **[Desolation Redux]** mod (*NOT Exile Mod*)
+A collection of mods run by 7DTD Moosemilker.com server
 =====
 
 

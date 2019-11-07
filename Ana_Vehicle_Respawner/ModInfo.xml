@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Ana_Vehicle_Respawner" />
+		<Description value="Respawns cars, buses and army trucks.  A18 experimental b139" />
+		<Author value="Anabella" />
+		<Version value="1.0.0" />
+		<Website value="" />
+	</ModInfo>
+</xml>

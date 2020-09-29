@@ -1,4 +1,4 @@
-A collection of all mods run by 7DTD Moosemilker.com server
+A collection of all mods run by 7DTD Moose server
 =====
 
 
